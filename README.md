@@ -5,3 +5,5 @@ https://docs.google.com/spreadsheets/d/10E5uc716DIbNNwdT8ZhEULF93sNvIuv6bMDdePHm
 
 DataStudio
 https://datastudio.google.com/reporting/52cf015a-563d-4aea-a3e6-30864d69de99
+
+*Las keys no están subidas por seguridad
